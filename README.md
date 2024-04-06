@@ -41,4 +41,3 @@
 Github: https://github.com/JUZICN
 
 Blog: https://juz1.cn
-![image](https://github.com/JUZICN/JUZICN/assets/125187662/d6dba8bf-7f95-4164-924c-1901ab4ab8b2)

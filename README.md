@@ -40,4 +40,4 @@
 
 Github: https://github.com/JUZICN
 
-Blog: https://juz1.cn
+Blog: https://juz1.cn/blog

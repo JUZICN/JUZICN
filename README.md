@@ -42,4 +42,4 @@ Github: https://github.com/JUZICN
 Blog: https://juz1.cn/blog
 
 ### 活跃程度?
-[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-snake-dark.svg)](https://github.com/JUZICN)
+[![](https://raw.githubusercontent.com/JUZICN/JUZICN/main/github-user-contribution.svg)](https://github.com/JUZICN)

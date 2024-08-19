@@ -41,5 +41,5 @@ Github: https://github.com/JUZICN
 
 Blog: https://juz1.cn/blog
 
-### 活跃程度?
+### 贡献?
 [![](https://raw.githubusercontent.com/JUZICN/JUZICN/main/github-user-contribution.svg)](https://github.com/JUZICN)

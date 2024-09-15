@@ -1,3 +1,4 @@
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/JUZICN/count.svg)]() visitor🎉🎉
 ### 我是谁？
 
 <p>我是Juzi, 一个开发者。

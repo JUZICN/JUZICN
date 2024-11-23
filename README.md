@@ -40,7 +40,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/JUZICN/c
 
 Github: https://github.com/JUZICN
 
-Blog: https://juz1.cn/blog
+Blog: https://juz1.cn/
 
 ### 贡献?
 [![](https://raw.githubusercontent.com/JUZICN/JUZICN/main/github-user-contribution.svg)](https://github.com/JUZICN)
